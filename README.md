@@ -1,5 +1,10 @@
 # Graphs In Python
-I had chosen the [Movie ratings Dataset](https://drive.google.com/file/d/1Mn4dJV_OpscHinW7YQhpLGjEICTE32nP/view?usp=sharing) to illustrate some of the data visualisation methods in python . 
+I had chosen a [Movie ratings Dataset](https://drive.google.com/file/d/1Mn4dJV_OpscHinW7YQhpLGjEICTE32nP/view?usp=sharing) to illustrate some of the data visualisation methods in python . 
+
+## Tech Stack Used
+**Programming Language :** Python
+
+**Libraries and Modules :** Pandas , Matplotlib, Statistics
 
 ## Dataset Description
 This data set contains list of Hollywood Movies released between the years _2007 - 2011_ and their respective _Genre, Rotten Tomatoes ratings (in %), Audience ratings (in %) and Budget_.
@@ -17,11 +22,11 @@ I have considred six metrics for the purpose of visualisation :
 - Highest rated movie of the year
 - Lowest rated movie of the year
 
-User would be able to choose the metric they want to visualise by typing a code :
+User would be able to choose the metric they want to visualise , by typing an abbreviation :
 
 ![image](https://user-images.githubusercontent.com/87597527/144361193-8ee71c75-8453-46b4-94c4-6c33bd2cae0b.png)
 
-After entering the code the visualisation would appear below :
+After giving the input visualisation would appear below :
 
 ![image](https://user-images.githubusercontent.com/87597527/144361356-1e263d08-877e-4465-aa71-05ce86a24945.png)
 
