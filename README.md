@@ -1,5 +1,5 @@
 # Graphs In Python
-I had chosen a [Movie ratings Dataset](https://drive.google.com/file/d/1Mn4dJV_OpscHinW7YQhpLGjEICTE32nP/view?usp=sharing) to illustrate some of the data visualisation methods in python . 
+This project was done as a part of my internship at [Foxmula](https://foxmula.com/). I had chosen a [Movie ratings Dataset](https://drive.google.com/file/d/1Mn4dJV_OpscHinW7YQhpLGjEICTE32nP/view?usp=sharing) to illustrate some of the data visualisation methods in python . 
 
 ## Tech Stack Used
 **Programming Language :** Python
